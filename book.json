@@ -3,5 +3,7 @@
         "include-codeblock",
         "github"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "github": "https://github.com/zimme/book-shine-bright-the-meteor-way"
+    }
 }
